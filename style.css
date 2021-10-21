@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+body {
+  display: flex;
+}
+.filter {
+  max-width: fit-content;
+  flex: 1 1 auto;
+  margin-right: 24px;
+}
+
+.list {
+flex: 2 1 auto;
+}
+
+.rolesFieldset {
+    margin-top: 16px;
+}
+
+
+.table table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse
+}
+
+th:last-child, td:last-child {
+    text-align: right;
+    
+}
+
+th {
+    border-bottom: solid 1px #000;
+}
+
+tr:last-child{
+        border-bottom: solid 1px #000;
+}
+
+
+
+
+
+/* .table {
+  background-color: cadetblue;
+    width: 100%;
+}
+
+tbody {
+  width: 100%;
+  background-color: chartreuse;
+  
+}
+.list {
+  width: 100%;
+} */
