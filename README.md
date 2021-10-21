@@ -17,6 +17,8 @@
 ordenação e filtros configuráveis, utilizando o Back End fornecido junto com o código fonte 
 das aulas.</p>
 
-<ol>Observações antes de rodar o projeto</ol>
+<h4>Observações antes de rodar o projeto</h4>
+<ol>
     <li> Recorte a pasta backend do projeto e cole em outro diretório</li>
-    <li> Abre a pasta backend no prompt e rode npm install e, posteriormente, npm start para rodar em um servidor local</li>
+    <li> Abra a pasta backend no prompt e rode npm install e, posteriormente, npm start para rodar em um servidor local</li>
+</ol>
